@@ -1,3 +1,5 @@
+This is the first prototype.  The next part will involve the player creating cards on the fly.
+
 label draw:
 
   show poutine ardent
